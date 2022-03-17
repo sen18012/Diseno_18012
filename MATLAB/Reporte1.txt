@@ -1,0 +1,17 @@
+Universidad del Valle de Guatemala
+Diseño e Innovación en Ingienería
+Sección 20
+
+Katharine Senn - 18012
+
+Reporte de Estado Actual Balancín
+
+Aceleración en X: 15 
+Aceleración en Y: 10 
+Aceleración en Z: 9 
+ 
+Giro sobre Eje X: 0 
+Giro sobre Eje Y: 0 
+Giro sobre Eje Z: -2 
+ 
+Ángulo del Balancín: 55 
