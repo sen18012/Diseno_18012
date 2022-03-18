@@ -1,0 +1,21 @@
+i2cm_drv.obj: C:/Users/katha/Downloads/mpu6050_tm4c123g-master\\ (1)/mpu6050_tm4c123g-master/i2cm_drv.c
+i2cm_drv.obj: C:/ti/ccs1100/ccs/tools/compiler/ti-cgt-arm_20.2.6.LTS/include/stdbool.h
+i2cm_drv.obj: C:/ti/ccs1100/ccs/tools/compiler/ti-cgt-arm_20.2.6.LTS/include/_ti_config.h
+i2cm_drv.obj: C:/ti/ccs1100/ccs/tools/compiler/ti-cgt-arm_20.2.6.LTS/include/linkage.h
+i2cm_drv.obj: C:/ti/ccs1100/ccs/tools/compiler/ti-cgt-arm_20.2.6.LTS/include/stdint.h
+i2cm_drv.obj: C:/ti/ccs1100/ccs/tools/compiler/ti-cgt-arm_20.2.6.LTS/include/_stdint40.h
+i2cm_drv.obj: C:/ti/ccs1100/ccs/tools/compiler/ti-cgt-arm_20.2.6.LTS/include/sys/stdint.h
+i2cm_drv.obj: C:/ti/ccs1100/ccs/tools/compiler/ti-cgt-arm_20.2.6.LTS/include/sys/cdefs.h
+i2cm_drv.obj: C:/ti/ccs1100/ccs/tools/compiler/ti-cgt-arm_20.2.6.LTS/include/sys/_types.h
+i2cm_drv.obj: C:/ti/ccs1100/ccs/tools/compiler/ti-cgt-arm_20.2.6.LTS/include/machine/_types.h
+i2cm_drv.obj: C:/ti/ccs1100/ccs/tools/compiler/ti-cgt-arm_20.2.6.LTS/include/machine/_stdint.h
+i2cm_drv.obj: C:/ti/ccs1100/ccs/tools/compiler/ti-cgt-arm_20.2.6.LTS/include/sys/_stdint.h
+i2cm_drv.obj: C:/ti/TivaWare_C_Series-2.1.4.178/inc/hw_i2c.h
+i2cm_drv.obj: C:/ti/TivaWare_C_Series-2.1.4.178/inc/hw_memmap.h
+i2cm_drv.obj: C:/ti/TivaWare_C_Series-2.1.4.178/inc/hw_types.h
+i2cm_drv.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/debug.h
+i2cm_drv.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/i2c.h
+i2cm_drv.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/interrupt.h
+i2cm_drv.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/rom.h
+i2cm_drv.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/rom_map.h
+i2cm_drv.obj: C:/ti/TivaWare_C_Series-2.1.4.178/sensorlib/i2cm_drv.h
