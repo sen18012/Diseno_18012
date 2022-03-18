@@ -6,12 +6,12 @@ Katharine Senn - 18012
 
 Reporte de Estado Actual Balancín
 
-Aceleración en X: 15 
-Aceleración en Y: 10 
-Aceleración en Z: 9 
+Aceleración en X: 10 
+Aceleración en Y: 16 
+Aceleración en Z: 5 
  
 Giro sobre Eje X: 0 
 Giro sobre Eje Y: 0 
-Giro sobre Eje Z: -2 
+Giro sobre Eje Z: 0 
  
-Ángulo del Balancín: 55 
+Ángulo del Balancín: -57 
